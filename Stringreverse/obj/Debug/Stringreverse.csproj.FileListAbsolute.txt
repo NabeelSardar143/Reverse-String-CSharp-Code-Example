@@ -1,6 +1,0 @@
-c:\users\hp\documents\visual studio 2015\Projects\Stringreverse\Stringreverse\bin\Debug\Stringreverse.exe.config
-c:\users\hp\documents\visual studio 2015\Projects\Stringreverse\Stringreverse\bin\Debug\Stringreverse.exe
-c:\users\hp\documents\visual studio 2015\Projects\Stringreverse\Stringreverse\bin\Debug\Stringreverse.pdb
-c:\users\hp\documents\visual studio 2015\Projects\Stringreverse\Stringreverse\obj\Debug\Stringreverse.csprojResolveAssemblyReference.cache
-c:\users\hp\documents\visual studio 2015\Projects\Stringreverse\Stringreverse\obj\Debug\Stringreverse.exe
-c:\users\hp\documents\visual studio 2015\Projects\Stringreverse\Stringreverse\obj\Debug\Stringreverse.pdb
